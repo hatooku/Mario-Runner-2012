@@ -1,8 +1,8 @@
 Mario Runner (2012)
 ===================
 
-![Screenshot](/home.png "Home Screen")
 ![Screenshot](/game.png “Gameplay”)
+![Screenshot](/home.png "Home Screen")
 
 Description
 -----------
